@@ -12,5 +12,3 @@
 
 <meta name="description" content="Dominic Franz">
 <meta name="author" content="Dominic Franz">
-        
-<title>Dominic Franz</title>
